@@ -26,14 +26,14 @@ My research interests focus on **Large Language Models**, **Multi-Agent Systems*
 - *2025.9*: &nbsp;🎉🎉 One paper titled "Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models" has been accepted by **EMNLP 2025**.
 - *2025.9*: &nbsp;🎉🎉 One paper titled "DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents" has been accepted by **CIKM 2025**.
 - 
-# 📝 Publications 
+# 📝 Latest Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/aaai2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion](https://arxiv.org/abs/2511.07267)
 
-**Chen Han**, et al.
+Chen Han, Yijia Ma, Jin Tan, Wenzhen Zheng, Xijin Tang
 
 - Proposed an Evidence-based Multi-Agent Debate (ED2D) framework to address LLM hallucinations by introducing an Evidence Function Call for retrieving external knowledge (Wikipedia).
 - Demonstrated that ED2D not only detects misinformation but also serves as a persuasive system to correct user misconceptions.
@@ -45,7 +45,7 @@ My research interests focus on **Large Language Models**, **Multi-Agent Systems*
 
 [Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models](https://aclanthology.org/2025.emnlp-main.764/)
 
-**Chen Han**, et al.
+Chen Han, Wenzhen Zheng, Xijin Tang
 
 - Reformulated misinformation detection as a multi-agent debate task, simulating real-world fact-checking processes to enhance reasoning interpretability and transparency.
 - Outperformed existing baselines on two mainstream fake news datasets.
@@ -57,22 +57,10 @@ My research interests focus on **Large Language Models**, **Multi-Agent Systems*
 
 [DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents](https://dl.acm.org/doi/10.1145/3746252.3760904)
 
-**Chen Han**, et al.
+Chen Han, Yuanyuan Li, Xijin Tang
 
-- [cite_start]Fine-tuned DeepSeek-R1-7B locally using LoRA and Few-shot learning to construct the first government investment promotion knowledge graph. [cite: 16, 17, 18]
-- [cite_start]Implemented a Graph-RAG architecture using Neo4J and Milvus for parallel retrieval to enable high-quality intelligent policy Q&A. [cite: 18]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/acl2026.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Conformity Dynamics in Multi-Agent Systems: A Network Topology Perspective]
-
-**Chen Han**, et al.
-
-- [cite_start]Analyzed the impact of network topology (centralized vs. distributed) on conformity dynamics in multi-agent systems. [cite: 19, 20]
-- [cite_start]Found that distributed topologies balance consensus speed and accuracy but may be prone to early bias compared to centralized ones. [cite: 20]
+- Fine-tuned DeepSeek-R1-7B locally using LoRA and Few-shot learning to construct the first government investment promotion knowledge graph.
+- Implemented a Graph-RAG architecture using Neo4J and Milvus for parallel retrieval to enable high-quality intelligent policy Q&A.
 </div>
 </div>
 
@@ -81,16 +69,16 @@ My research interests focus on **Large Language Models**, **Multi-Agent Systems*
 
 [An Agent-Based Simulation Framework for Misinformation Susceptibility Test with LLMs: Insights from Psychological Factors](https://doi.org/10.1007/978-981-95-4990-0_25)
 
-**Chen Han**, et al.
+Chen Han, Xijin Tang
 
-- [cite_start]Constructed an Agent Profile set incorporating demographic and psychological factors to simulate group susceptibility to misinformation. [cite: 21, 22]
-- [cite_start]Proposed a low-cost simulation framework to replace human experiments, validated using EMB interpretability modeling. [cite: 22]
+- Constructed an Agent Profile set incorporating demographic and psychological factors to simulate group susceptibility to misinformation.
+- Proposed a low-cost simulation framework to replace human experiments, validated using EMB interpretability modeling.
 </div>
 </div>
 
 **Other Publications:**
 
-- **[JBEF 2023]** (SSCI, Q1) **The impact of the disclosure characteristics of the application material on the successful listing of companies on China's Science and Technology Innovation Board**. [cite_start]**Chen Han**. [cite: 23, 24]
+- **[JBEF 2023]** (SSCI, Q1) **The impact of the disclosure characteristics of the application material on the successful listing of companies on China's Science and Technology Innovation Board**.
 
 # 🎖 Honors and Awards
 - *2025* CAS BYD Scholarship (中国科学院大学比亚迪奖学金)
