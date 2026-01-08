@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in a joint program between the School of Advanced Interdisciplinary Sciences and the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, majoring in Computer Science and Technology. My research interests focus on **Large Language Models**, **Multi-Agent Systems**, and **Misinformation Detection**.
+I am currently a Ph.D. student in a joint program between the School of Advanced Interdisciplinary Sciences and the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, majoring in Computer Science and Technology. My research interests focus on **Large Language Models**, **Multi-Agent Systems**, **Misinformation Detection**, and **Knowledge Graph**.
 
 Outside of research, I am also a Top 500 Tank player in Overwatch :D.
 
