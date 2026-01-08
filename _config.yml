@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen Han（韩晨）"
+title                    : "韩晨（Chen Han）"
 description              : "CS Phd Student"
 repository               : "hanshenmesen/hanshenmesen.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chen Han（韩晨）"
+  name             : "韩晨（Chen Han）"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "AMSS/SAIS, UCAS"
   location         : "Beijing, China"
