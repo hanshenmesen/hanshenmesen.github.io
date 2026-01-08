@@ -28,15 +28,27 @@ My research interests focus on **Large Language Models (LLMs)**, **Multi-Agent S
 - 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/aaai2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion](https://github.com/hanshenmesen/Debate-to-Detect)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Chen Han**, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Proposed an Evidence-based Multi-Agent Debate (ED2D) framework to address LLM hallucinations by introducing an Evidence Function Call for retrieving external knowledge (Wikipedia).
+- Demonstrated that ED2D not only detects misinformation but also serves as a persuasive system to correct user misconceptions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/emnlp2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models](https://arxiv.org/abs/2505.18596)
+
+**Chen Han**, et al.
+
+- Reformulated misinformation detection as a multi-agent debate task, simulating real-world fact-checking processes to enhance reasoning interpretability and transparency.
+- Outperformed existing baselines on two mainstream fake news datasets.
 </div>
 </div>
 
