@@ -93,7 +93,7 @@ Chen Han, Yuanyuan Li, Xijin Tang
 
 **Han, C.**, Li, Y., & Tang, X. (2025). DocPolicyKG: A lightweight LLM-based framework for knowledge graph construction from Chinese policy documents. In *Proceedings of the 34th ACM International Conference on Information and Knowledge Management* (pp. 4753–4757). https://doi.org/10.1145/3746252.3760904
 
-韩晨, 唐锡晋. **ACM TechNews中虚假信息报道发展进程研究—基于科技新闻的文本挖掘分析**. *系统科学与数学*, 2025. https://doi.org/10.12341/jssms250173 (**Han, C.**, & Tang, X. (2025). Research on the development of disinformation reports in ACM TechNews: A text mining analysis based on technology news. *Journal of Systems Science and Mathematical Sciences*.)
+**韩晨**, 唐锡晋. ACM TechNews中虚假信息报道发展进程研究—基于科技新闻的文本挖掘分析. 系统科学与数学, 2025. https://doi.org/10.12341/jssms250173 (**Han, C.**, & Tang, X. (2025). Research on the development of disinformation reports in ACM TechNews: A text mining analysis based on technology news. *Journal of Systems Science and Mathematical Sciences*.)
 
 ### Before 2023
 **Han, C.**, Wu, C., & Wei, L. (2023). The impact of the disclosure characteristics of the application material on the successful listing of companies on China’s Science and Technology Innovation Board. *Journal of Behavioral and Experimental Finance*, *37*, 100733.
