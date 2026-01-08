@@ -19,10 +19,10 @@ redirect_from:
 
 I am currently a Ph.D. student in a joint program between the School of Advanced Interdisciplinary Sciences and the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, majoring in Computer Science and Technology. My research interests focus on **Large Language Models**, **Multi-Agent Systems**, **Misinformation Detection**, and **Knowledge Graph**.
 
-Outside of research, I am also a Top 500 Tank player in Overwatch :D.
+Outside of research, I am also a Top 500 Tank player in Overwatch :D
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉 One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI AISI 2026 (Oral)**!
+- *2025.11*: &nbsp;🎉 One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI AISI 2026 (Oral)**.
 - *2025.9*: &nbsp;🎉 One paper titled "Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models" has been accepted by **EMNLP 2025**.
 - *2025.9*: &nbsp;🎉 One paper titled "DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents" has been accepted by **CIKM 2025**.
 - 
@@ -70,11 +70,11 @@ Outside of research, I am also a Top 500 Tank player in Overwatch :D.
 - *2023* Outstanding Graduate of Central University of Finance and Economics(中央财经大学优秀毕业生)
 
 # 📖 Educations
-- *2025.02 – 2028.02*, Ph.D., **School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences**(Advisor: [Xijin Tang](https://people.ucas.ac.cn/~xjtang))
+- *2025.02 – 2028.02*, Ph.D., School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences (Advisor: [Xijin Tang](https://people.ucas.ac.cn/~xjtang))
 
-- *2023.09 – 2025.02*, M.S., **Academy of Mathematics and Systems Science, Chinese Academy of Sciences**(Advisor: [Xijin Tang](https://people.ucas.ac.cn/~xjtang))
+- *2023.09 – 2025.02*, M.S., Academy of Mathematics and Systems Science, Chinese Academy of Sciences (Advisor: [Xijin Tang](https://people.ucas.ac.cn/~xjtang))
 
-- *2019.09 – 2023.06*, B.S., **Central University of Finance and Economics**, (Advisor: [Lu Wei](https://mse.cufe.edu.cn/info/1017/4580.htm))
+- *2019.09 – 2023.06*, B.S., Central University of Finance and Economics (Advisor: [Lu Wei](https://mse.cufe.edu.cn/info/1017/4580.htm))
 
 
 
@@ -91,7 +91,7 @@ Outside of research, I am also a Top 500 Tank player in Overwatch :D.
 ### 2025
 **Han, C.**, & Tang, X. (2025). An agent-based simulation framework for misinformation susceptibility test with LLMs: Insights from psychological factors. In *Knowledge and Systems Sciences* (pp. 289–302). Springer, Singapore. https://doi.org/10.1007/978-981-95-4990-0_25
 
-**Han, C.**, Zheng, W., & Tang, X. (2025). Debate-to-detect: Reformulating misinformation detection as a real-world debate with large language models. In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (pp. 15114–15129). Association for Computational Linguistics.
+**Han, C.**, Zheng, W., & Tang, X. (2025). Debate-to-detect: Reformulating misinformation detection as a real-world debate with large language models. In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (pp. 15114–15129). Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.emnlp-main.764
 
 **Han, C.**, Li, Y., & Tang, X. (2025). DocPolicyKG: A lightweight LLM-based framework for knowledge graph construction from Chinese policy documents. In *Proceedings of the 34th ACM International Conference on Information and Knowledge Management* (pp. 4753–4757). https://doi.org/10.1145/3746252.3760904
 
