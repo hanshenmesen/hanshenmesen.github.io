@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in a joint training program between the School of Advanced Interdisciplinary Sciences and the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I am majoring in Computer Science and Technology. Prior to this, I received my Bachelor's degree from the Central University of Finance and Economics.
+I am currently a Ph.D. student in a joint program between the School of Advanced Interdisciplinary Sciences and the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I am majoring in Computer Science and Technology. Prior to this, I received my Bachelor's degree from the Central University of Finance and Economics.
 
-My research interests focus on **Large Language Models (LLMs)**, **Multi-Agent Systems**, and **Misinformation Detection**.
+My research interests focus on **Large Language Models**, **Multi-Agent Systems**, and **Misinformation Detection**.
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI AISI 2026 (Oral)**!
