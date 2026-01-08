@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. student in a joint training program between the School of Advanced Interdisciplinary Sciences and the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. I am majoring in Computer Science and Technology. Prior to this, I received my Bachelor's degree from the Central University of Finance and Economics.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interests focus on **Large Language Models (LLMs)**, **Multi-Agent Systems**, and **Misinformation Detection**.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.11*: &nbsp;🎉🎉 One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI AISI 2026 (Oral)**!
+- *2025.9*: &nbsp;🎉🎉 One paper titled "Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models" has been accepted by **EMNLP 2025**.
+- *2025.9*: &nbsp;🎉🎉 One paper titled "DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents" has been accepted by **CIKM 2025**.
+- 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -40,19 +40,26 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Other Selected Publications:**
+
+- **[CIKM 2025]** **Constructing Knowledge Graphs from Document-Level Policy Texts With Lightweight LLMs**. **Chen Han**.
+- **[Under Review ACL 2026]** **Conformity Dynamics in Multi-Agent Systems: A Network Topology Perspective**. **Chen Han**.
+- **[KSS 2025]** **An Agent-Based Simulation Framework for Misinformation Susceptibility Test in LLMs**. **Chen Han**.
+- **[JBEF 2023]** (SSCI, Q1) **The impact of the disclosure characteristics of the application material on the successful listing of companies on China's Science and Technology Innovation Board**. **Chen Han**.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* CAS BYD Scholarship (中国科学院大学比亚迪奖学金)
+- *2025* CAST Ph.D. Student Special Plan (中国科协青年科技人才培育工程博士生专项计划)
+- *2023* Outstanding Graduate of Central University of Finance and Economics
+- *2022* National Undergraduate Innovation and Entrepreneurship Training Program (Excellent Conclusion)
+- *2021* First Prize, Mathematical Contest in Modeling (MCM/ICM)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - 2028.02 (Expected)*, Ph.D. in Computer Science, **Chinese Academy of Sciences (CAS)**, Beijing.
+- *2019.09 - 2023.06*, B.Mgmt. in Big Data Management and Application, **Central University of Finance and Economics (CUFE)**, Beijing. (Avg Score: 90.39)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.10 - 2025.12*, **Ant Group**, Beijing.
+  - Position: LLM Algorithm Intern (Post-training & Evaluation).
+- *2022.07 - 2023.05*, **Source Code Capital**, Beijing.
+  - Position: Algorithm Intern.
