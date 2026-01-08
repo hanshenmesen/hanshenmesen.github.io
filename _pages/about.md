@@ -31,7 +31,7 @@ My research interests focus on **Large Language Models**, **Multi-Agent Systems*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/aaai2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion](https://github.com/hanshenmesen/Debate-to-Detect)
+[Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion](https://arxiv.org/abs/2511.07267)
 
 **Chen Han**, et al.
 
@@ -43,7 +43,7 @@ My research interests focus on **Large Language Models**, **Multi-Agent Systems*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/emnlp2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models](https://arxiv.org/abs/2505.18596)
+[Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models](https://aclanthology.org/2025.emnlp-main.764/)
 
 **Chen Han**, et al.
 
@@ -52,12 +52,45 @@ My research interests focus on **Large Language Models**, **Multi-Agent Systems*
 </div>
 </div>
 
-**Other Selected Publications:**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **[CIKM 2025]** **Constructing Knowledge Graphs from Document-Level Policy Texts With Lightweight LLMs**. **Chen Han**.
-- **[Under Review ACL 2026]** **Conformity Dynamics in Multi-Agent Systems: A Network Topology Perspective**. **Chen Han**.
-- **[KSS 2025]** **An Agent-Based Simulation Framework for Misinformation Susceptibility Test in LLMs**. **Chen Han**.
-- **[JBEF 2023]** (SSCI, Q1) **The impact of the disclosure characteristics of the application material on the successful listing of companies on China's Science and Technology Innovation Board**. **Chen Han**.
+[DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents](https://dl.acm.org/doi/10.1145/3746252.3760904)
+
+**Chen Han**, et al.
+
+- [cite_start]Fine-tuned DeepSeek-R1-7B locally using LoRA and Few-shot learning to construct the first government investment promotion knowledge graph. [cite: 16, 17, 18]
+- [cite_start]Implemented a Graph-RAG architecture using Neo4J and Milvus for parallel retrieval to enable high-quality intelligent policy Q&A. [cite: 18]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/acl2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Conformity Dynamics in Multi-Agent Systems: A Network Topology Perspective]
+
+**Chen Han**, et al.
+
+- [cite_start]Analyzed the impact of network topology (centralized vs. distributed) on conformity dynamics in multi-agent systems. [cite: 19, 20]
+- [cite_start]Found that distributed topologies balance consensus speed and accuracy but may be prone to early bias compared to centralized ones. [cite: 20]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KSS 2025</div><img src='images/kss2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Agent-Based Simulation Framework for Misinformation Susceptibility Test with LLMs: Insights from Psychological Factors](https://doi.org/10.1007/978-981-95-4990-0_25)
+
+**Chen Han**, et al.
+
+- [cite_start]Constructed an Agent Profile set incorporating demographic and psychological factors to simulate group susceptibility to misinformation. [cite: 21, 22]
+- [cite_start]Proposed a low-cost simulation framework to replace human experiments, validated using EMB interpretability modeling. [cite: 22]
+</div>
+</div>
+
+**Other Publications:**
+
+- **[JBEF 2023]** (SSCI, Q1) **The impact of the disclosure characteristics of the application material on the successful listing of companies on China's Science and Technology Innovation Board**. [cite_start]**Chen Han**. [cite: 23, 24]
 
 # 🎖 Honors and Awards
 - *2025* CAS BYD Scholarship (中国科学院大学比亚迪奖学金)
@@ -68,10 +101,10 @@ My research interests focus on **Large Language Models**, **Multi-Agent Systems*
 
 # 📖 Educations
 - *2023.09 - 2028.02 (Expected)*, Ph.D. in Computer Science, **Chinese Academy of Sciences (CAS)**, Beijing.
-- *2019.09 - 2023.06*, B.Mgmt. in Big Data Management and Application, **Central University of Finance and Economics (CUFE)**, Beijing. (Avg Score: 90.39)
+- *2019.09 - 2023.06*, **Central University of Finance and Economics (CUFE)**, Beijing.
 
 # 💻 Internships
-- *2025.10 - 2025.12*, **Ant Group**, Beijing.
+- *2025.10 - 2025.11*, **Ant Group**, Beijing.
   - Position: LLM Algorithm Intern (Post-training & Evaluation).
 - *2022.07 - 2023.05*, **Source Code Capital**, Beijing.
   - Position: Algorithm Intern.
