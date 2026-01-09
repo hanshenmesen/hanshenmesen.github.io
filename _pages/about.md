@@ -65,8 +65,8 @@ Outside of research, I am also a Top 500 Tank player in Overwatch :D
 </div>
 
 # 🎖 Honors and Awards
-- *2025* CAS–BYD Scholarship, UCAS (中国科学院大学比亚迪奖学金)
-- *2025* CAST Ph.D. Student Special Program for Young Talents (中国科协青年科技人才培育工程博士生专项计划)
+- ***2025* CAS–BYD Scholarship, UCAS (中国科学院大学比亚迪奖学金)**
+- ***2025* CAST Ph.D. Student Special Program for Young Talents (中国科协青年科技人才培育工程博士生专项计划)**
 - *2024* Merit Student and Outstanding Student Leader, UCAS（中国科学院大学三好学生、优秀学生干部）
 - *2023* Outstanding Graduate and Outstanding Undergraduate Thesis, CUFE (中央财经大学优秀毕业生、优秀毕业论文)
 - *2022* National Undergraduate Innovation and Entrepreneurship Training Program（国家级大学生创新创业训练项目优秀结项）
