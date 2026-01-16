@@ -22,9 +22,9 @@ I am currently a Ph.D. student in a joint program between the School of Advanced
 Outside of research, I am also a Top 500 Tank player in Overwatch :D
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉 One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI AISI 2026 (Oral)**.
-- *2025.9*: &nbsp;🎉 One paper titled "Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models" has been accepted by **EMNLP 2025**.
-- *2025.9*: &nbsp;🎉 One paper titled "DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents" has been accepted by **CIKM 2025**.
+- *2025.11*: One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI AISI 2026 (Oral)**.
+- *2025.9*: One paper titled "Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models" has been accepted by **EMNLP 2025**.
+- *2025.9*: One paper titled "DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents" has been accepted by **CIKM 2025**.
 - 
 # 📝 Latest Publications 
 
