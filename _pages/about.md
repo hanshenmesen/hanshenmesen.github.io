@@ -65,14 +65,15 @@ Outside of research, I am also a Top 500 Tank player in Overwatch :D
 </div>
 
 # 🎖 Honors and Awards
-- ***2025* CAS–BYD Scholarship, UCAS (中国科学院大学比亚迪奖学金)**
-- ***2025* CAST Ph.D. Student Special Program for Young Talents (中国科协青年科技人才培育工程博士生专项计划)**
+- ***2026* 入选小红书ACE顶尖实习生人才计划**
+- ***2025* 中国科学院大学比亚迪奖学金**
+- ***2025* 入选中国科协青年科技人才培育工程博士生专项计划**
 - *2024* Merit Student and Outstanding Student Leader, UCAS（中国科学院大学三好学生、优秀学生干部）
 - *2023* Outstanding Graduate and Outstanding Undergraduate Thesis, CUFE (中央财经大学优秀毕业生、优秀毕业论文)
 - *2022* National Undergraduate Innovation and Entrepreneurship Training Program（国家级大学生创新创业训练项目优秀结项）
 - *2022* Second Prize, MathorCup University Mathematical Modeling Challenge（MathorCup高校数学建模挑战赛大数据竞赛二等奖）
 - *2021* First Prize, Mathematical Contest in Modeling (MCM/ICM) （美国大学生数学建模竞赛一等奖）
-- *2020–2023* Merit Student, UCAS （中央财经大学三好学生）
+- *2020–2023* 中央财经大学三好学生 
 
 # 📖 Educations
 - *2025.02 – 2028.02*, Ph.D., School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences (Advisor: [Xijin Tang](https://people.ucas.ac.cn/~xjtang))
@@ -84,13 +85,14 @@ Outside of research, I am also a Top 500 Tank player in Overwatch :D
 
 
 # 💻 Internships
-- *2025.10 - 2025.11*, **Ant Group**, Beijing.  Position: LLM Algorithm Intern (Post-training & Evaluation).
-- *2022.07 - 2023.05*, **Source Code Capital**, Beijing.  Position: Algorithm Intern.
+- *2026.03 - Present*, **小红书ACE顶尖实习生（Xiaohongshu ACE Top Intern）**, Beijing.  Position: Data Engineer Agent R&D
+- *2025.10 - 2025.11*, **蚂蚁集团（Ant Group）**, Beijing.  Position: LLM Algorithm Intern (Post-training & Evaluation).
+- *2022.07 - 2023.05*, **源码资本（Source Code Capital**）, Beijing.  Position: Algorithm Intern.
 
 # 📚 All My Publications
 
 ### 2026
-**Han, C.**, Ma, Y., Tan, J., & Tang, X. (2026). Beyond detection: Exploring evidence-based multi-agent debate for misinformation intervention and persuasion. *Proceedings of the AAAI Conference on Artificial Intelligence* (AAAI 2026).
+**Han, C.**, Ma, Y., Tan, J., & Tang, X. (2026). Beyond detection: Exploring evidence-based multi-agent debate for misinformation intervention and persuasion. *Proceedings of the AAAI Conference on Artificial Intelligence* (AAAI 2026 Oral).
 
 
 ### 2025
