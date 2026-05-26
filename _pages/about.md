@@ -25,7 +25,7 @@ Outside of research, I am also a Top 500 Tank player in Overwatch :D
 - *2025.11*: One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI AISI 2026 (Oral)**. [First-time Oral Link, 50:00](https://us06web.zoom.us/rec/play/ZT5Rbv1Ukqpj7sXRaiPn5NTVX6tLmG21fMk8PtWyygZf-XkQXwh-5QBGFRe6C0trU0Io4tgEZTtB0nln.jTQ2pKF0K6BehzXp?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1769222052000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2F4J0Ftl5Mq9vFLTCmFFAeThHP6-qq0CIV5du9_CMEmisJ0-0nV_660MRWbfi-uY4Z.a-vxfm1krWONJB_S%3FstartTime%3D1769222052000)
 - *2025.9*: One paper titled "Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models" has been accepted by **EMNLP 2025 (Main)**.
 - *2025.9*: One paper titled "DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents" has been accepted by **CIKM 2025**.
-- 
+
 # 📝 Latest Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/aaai2026.png' alt="sym" width="100%"></div></div>
