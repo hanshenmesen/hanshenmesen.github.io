@@ -78,7 +78,7 @@ Outside of research, I am also a Top 500 Tank player in Overwatch — **汉什�
 
 # 🧑‍⚖️ Academic Service
 - **Journal Reviewer:** *International Journal of Human–Computer Interaction* (JCR Q1); *Frontiers in Psychology*, section Cognitive Science (JCR Q1); *ACM Transactions on Intelligent Systems and Technology* (JCR Q1).
-- **Conference Reviewer:** AAAI (CCF-A); CIKM (CCF-B); AAAI AISI Special Track (CCF-A venue); KSS (International Symposium, Springer CCIS).
+- **Conference Reviewer:** AAAI (CCF-A); CIKM (CCF-B); AAAI AISI Special Track; KSS (Springer CCIS).
 
 # 🎖 Honors and Awards
 - ***2026* 入选小红书ACE顶尖实习生人才计划**
