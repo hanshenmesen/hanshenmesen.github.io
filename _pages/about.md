@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. student in a joint program between the School of Advanced Interdisciplinary Sciences and the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, majoring in Computer Science and Technology. I am expected to graduate in 2028. My research interests focus on **Large Language Models**, **Multi-Agent Systems**, **Misinformation Detection**, and **Knowledge Graph**.
 
-Outside of research, I am also a Top 500 Tank player in Overwatch :D
+Outside of research, I am also a Top 500 Tank player in Overwatch — **汉什么森#5664** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Overwatch_2_logo.svg" alt="Overwatch" width="22">
 
 # 🔥 News
 - *2025.11*: One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI AISI 2026 (Oral)**. [First-time Oral Link, 50:00](https://us06web.zoom.us/rec/play/ZT5Rbv1Ukqpj7sXRaiPn5NTVX6tLmG21fMk8PtWyygZf-XkQXwh-5QBGFRe6C0trU0Io4tgEZTtB0nln.jTQ2pKF0K6BehzXp?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1769222052000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2F4J0Ftl5Mq9vFLTCmFFAeThHP6-qq0CIV5du9_CMEmisJ0-0nV_660MRWbfi-uY4Z.a-vxfm1krWONJB_S%3FstartTime%3D1769222052000)
@@ -64,6 +64,22 @@ Outside of research, I am also a Top 500 Tank player in Overwatch :D
 </div>
 </div>
 
+# 💻 Internships
+- *2026.03 - Present*, **小红书ACE顶尖实习生（Xiaohongshu ACE Top Intern）**, Beijing.  Position: Data Engineer Agent R&D
+- *2025.10 - 2025.11*, **蚂蚁集团（Ant Group）**, Beijing.  Position: LLM Algorithm Intern (Post-training & Evaluation).
+- *2022.07 - 2023.05*, **源码资本（Source Code Capital）**, Beijing.  Position: Algorithm Intern.
+
+# 📖 Educations
+- *2025.02 – 2028.02*, Ph.D., School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences (Advisor: [Xijin Tang](https://people.ucas.ac.cn/~xjtang))
+
+- *2023.09 – 2025.02*, M.S., Academy of Mathematics and Systems Science, Chinese Academy of Sciences (Advisor: [Xijin Tang](https://people.ucas.ac.cn/~xjtang))
+
+- *2019.09 – 2023.06*, B.S., Central University of Finance and Economics (Advisor: [Lu Wei](https://mse.cufe.edu.cn/info/1017/4580.htm))
+
+# 🧑‍⚖️ Academic Service
+- **Journal Reviewer:** *International Journal of Human–Computer Interaction* (JCR Q1); *Frontiers in Psychology*, section Cognitive Science (JCR Q1); *ACM Transactions on Intelligent Systems and Technology* (JCR Q1).
+- **Conference Reviewer:** AAAI (CCF-A); CIKM (CCF-B); AAAI AISI Special Track (CCF-A venue); KSS (International Symposium, Springer CCIS).
+
 # 🎖 Honors and Awards
 - ***2026* 入选小红书ACE顶尖实习生人才计划**
 - ***2025* 中国科学院大学比亚迪奖学金**
@@ -74,20 +90,6 @@ Outside of research, I am also a Top 500 Tank player in Overwatch :D
 - *2022* Second Prize, MathorCup University Mathematical Modeling Challenge（MathorCup高校数学建模挑战赛大数据竞赛二等奖）
 - *2021* First Prize, Mathematical Contest in Modeling (MCM/ICM) （美国大学生数学建模竞赛一等奖）
 - *2020–2023* 中央财经大学三好学生 
-
-# 📖 Educations
-- *2025.02 – 2028.02*, Ph.D., School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences (Advisor: [Xijin Tang](https://people.ucas.ac.cn/~xjtang))
-
-- *2023.09 – 2025.02*, M.S., Academy of Mathematics and Systems Science, Chinese Academy of Sciences (Advisor: [Xijin Tang](https://people.ucas.ac.cn/~xjtang))
-
-- *2019.09 – 2023.06*, B.S., Central University of Finance and Economics (Advisor: [Lu Wei](https://mse.cufe.edu.cn/info/1017/4580.htm))
-
-
-
-# 💻 Internships
-- *2026.03 - Present*, **小红书ACE顶尖实习生（Xiaohongshu ACE Top Intern）**, Beijing.  Position: Data Engineer Agent R&D
-- *2025.10 - 2025.11*, **蚂蚁集团（Ant Group）**, Beijing.  Position: LLM Algorithm Intern (Post-training & Evaluation).
-- *2022.07 - 2023.05*, **源码资本（Source Code Capital**）, Beijing.  Position: Algorithm Intern.
 
 # 📚 All My Publications
 
