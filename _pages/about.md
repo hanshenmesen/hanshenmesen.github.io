@@ -77,8 +77,12 @@ Outside of research, I am also a Top 500 Tank player in Overwatch — **汉什�
 - *2019.09 – 2023.06*, B.S., Central University of Finance and Economics (Advisor: [Lu Wei](https://mse.cufe.edu.cn/info/1017/4580.htm))
 
 # 🧑‍⚖️ Academic Service
-- **Journal Reviewer:** *International Journal of Human–Computer Interaction* (JCR Q1); *Frontiers in Psychology*, section Cognitive Science (JCR Q1); *ACM Transactions on Intelligent Systems and Technology* (JCR Q1).
-- **Conference Reviewer:** AAAI (CCF-A); CIKM (CCF-B); AAAI AISI Special Track; KSS (Springer CCIS).
+- **Journal Reviewer:**
+  *International Journal of Human–Computer Interaction* (JCR Q1);
+  *Frontiers in Psychology*, section Cognitive Science (JCR Q1);
+  *ACM Transactions on Intelligent Systems and Technology* (JCR Q1);
+  *Computing Surveys*(JCR Q1);
+- **Conference Reviewer:** AAAI (CCF-A); CIKM (CCF-B); KSS (Springer CCIS).
 
 # 🎖 Honors and Awards
 - ***2026* 入选小红书ACE顶尖实习生人才计划**
