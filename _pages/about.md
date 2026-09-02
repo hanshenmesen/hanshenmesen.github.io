@@ -22,8 +22,9 @@ I am currently a Ph.D. student in a joint program between the School of Advanced
 Outside of research, I am also a Top 500 Tank player in Overwatch — **汉什么森#5664** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Overwatch_2_logo.svg" alt="Overwatch" width="22">
 
 # 🔥 News
-- *2025.11*: One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI AISI 2026 (Oral)**. [First-time Oral Link, 50:00](https://us06web.zoom.us/rec/play/ZT5Rbv1Ukqpj7sXRaiPn5NTVX6tLmG21fMk8PtWyygZf-XkQXwh-5QBGFRe6C0trU0Io4tgEZTtB0nln.jTQ2pKF0K6BehzXp?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1769222052000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2F4J0Ftl5Mq9vFLTCmFFAeThHP6-qq0CIV5du9_CMEmisJ0-0nV_660MRWbfi-uY4Z.a-vxfm1krWONJB_S%3FstartTime%3D1769222052000)
-- *2025.9*: One paper titled "Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models" has been accepted by **EMNLP 2025 (Main)**.
+- *2026.8*: One paper titled "Beyond Factual Knowledge: Benchmarking and Learning Step-Level Procedural Rule Reasoning in Large Language Models" has been accepted by **EMNLP 2026**.
+- *2026.1*: One paper titled "Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion" has been accepted by **AAAI 2026 (Oral)**. [First-time Oral Link, 50:00](https://us06web.zoom.us/rec/play/ZT5Rbv1Ukqpj7sXRaiPn5NTVX6tLmG21fMk8PtWyygZf-XkQXwh-5QBGFRe6C0trU0Io4tgEZTtB0nln.jTQ2pKF0K6BehzXp?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1769222052000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2F4J0Ftl5Mq9vFLTCmFFAeThHP6-qq0CIV5du9_CMEmisJ0-0nV_660MRWbfi-uY4Z.a-vxfm1krWONJB_S%3FstartTime%3D1769222052000)
+- *2025.9*: One paper titled "Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models" has been accepted by **EMNLP 2025**.
 - *2025.9*: One paper titled "DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents" has been accepted by **CIKM 2025**.
 
 # 📝 Latest Publications 
@@ -112,7 +113,7 @@ Bohan Yu, Pengfei Cao, **Chen Han**, Chenxi Zhou, Zhiheng Zhang, Zhiyang Xie, We
 ### 2026
 **Yu, B.**, Cao, P., **Han, C.**, Zhou, C., Zhang, Z., Xie, Z., Teng, W., Liao, X., Zhao, J., & Liu, K. (2026). Beyond factual knowledge: Benchmarking and learning step-level procedural rule reasoning in large language models. *Findings of the Association for Computational Linguistics: EMNLP 2026*. https://arxiv.org/abs/2608.22753
 
-**Han, C.**, Ma, Y., Tan, J., & Tang, X. (2026). Beyond detection: Exploring evidence-based multi-agent debate for misinformation intervention and persuasion. *Proceedings of the AAAI Conference on Artificial Intelligence* (AAAI 2026 Oral).
+**Han, C.**, Ma, Y., Tan, J., & Tang, X. (2026). Beyond detection: Exploring evidence-based multi-agent debate for misinformation intervention and persuasion. *Proceedings of the AAAI Conference on Artificial Intelligence* (AAAI 2026 Oral). https://ojs.aaai.org/index.php/AAAI/article/view/41196
 
 
 ### 2025
