@@ -28,6 +28,18 @@ Outside of research, I am also a Top 500 Tank player in Overwatch — **汉什�
 
 # 📝 Latest Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/emnlp2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Factual Knowledge: Benchmarking and Learning Step-Level Procedural Rule Reasoning in Large Language Models](https://arxiv.org/abs/2608.22753)
+
+Bohan Yu, Pengfei Cao, **Chen Han**, Chenxi Zhou, Zhiheng Zhang, Zhiyang Xie, Wenhao Teng, Xiangwen Liao, Jun Zhao, Kang Liu
+
+- Introduced RuleWorld, a large-scale benchmark for evaluating step-level procedural rule reasoning across single-rule, parallel multi-rule, and multi-hop scenarios.
+- Proposed DynaRule, a learnable framework for dynamic rule retrieval and re-attention that improves average QA accuracy by up to 19 points and achieves over 85% Recall@1 with 10K rules.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/aaai2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,6 +110,8 @@ Outside of research, I am also a Top 500 Tank player in Overwatch — **汉什�
 # 📚 All My Publications
 
 ### 2026
+**Yu, B.**, Cao, P., **Han, C.**, Zhou, C., Zhang, Z., Xie, Z., Teng, W., Liao, X., Zhao, J., & Liu, K. (2026). Beyond factual knowledge: Benchmarking and learning step-level procedural rule reasoning in large language models. *Findings of the Association for Computational Linguistics: EMNLP 2026*. https://arxiv.org/abs/2608.22753
+
 **Han, C.**, Ma, Y., Tan, J., & Tang, X. (2026). Beyond detection: Exploring evidence-based multi-agent debate for misinformation intervention and persuasion. *Proceedings of the AAAI Conference on Artificial Intelligence* (AAAI 2026 Oral).
 
 
