@@ -21,7 +21,7 @@ The approved website is deployed at https://hanshenmesen.github.io/ from the roo
 - Name, research direction, affiliation and contact links in the first section.
 - Three selected papers with concise summaries; original descriptions and figures expand on demand.
 - All 11 original bibliography records retained in the full publication list.
-- Six news items, three internships, three education records and eight awards retained. Xiaohongshu’s ACE Top Talent program is highlighted in the internship heading.
+- Seven news items, three internships, three education records and eight awards retained. Xiaohongshu’s ACE Top Talent program is highlighted in the internship heading.
 - Experience and education use separate full-width sections, real locally hosted organization logos and aligned dates. The original logos are preserved; CSS frames the emblem portion of wide marks.
 - Conference and journal reviewer lists flow horizontally and wrap on smaller screens. The service section includes the user's November 5 additions, with duplicate KSS entries merged, conference names shown without years, and unspecified conference years left unspecified.
 - Small-screen layout, keyboard focus, semantic headings, reduced motion and print styling.
