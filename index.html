@@ -19,6 +19,11 @@
 @media(max-width:760px){.wechat-contact{position:static}.wechat-trigger{gap:6px}}
 </style>
 <style>
+#all-publications{border-color:#a9b8a3;border-radius:6px}
+#all-publications>summary{gap:12px;padding:16px 18px;border-inline-start:3px solid #647d5e;border-radius:5px;background:#edf2e9;color:#2f4730;font-size:14px;font-weight:650;cursor:pointer}
+#all-publications>summary:hover,#all-publications>summary:focus-visible{background:#e4eddf}
+#all-publications>summary .plus{display:grid;place-items:center;width:25px;height:25px;border-radius:50%;background:#dce8d7;color:#2f4730;font-size:17px;line-height:1}
+@media(max-width:760px){#all-publications>summary{padding:12px 14px;font-size:13px}}
 .intro.with-update{position:relative}
 .site-last-updated{position:absolute;inset-block-start:12px;inset-inline-end:0;margin:0;font-family:var(--mono);font-size:10px;color:var(--muted);font-variant-numeric:tabular-nums}
 .news .news-list>li{grid-template-columns:86px minmax(0,1fr);gap:14px;align-items:baseline;padding:11px 0;border-bottom:1px solid var(--line)}
